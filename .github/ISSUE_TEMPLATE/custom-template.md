@@ -1,9 +1,9 @@
 ---
-name: Counter custom
-about: Generic counter
+name: Custom template
+about: Testing testing 123
 title: ''
 labels: ''
-assignees: vrouth50
+assignees: ''
 
 ---
 
