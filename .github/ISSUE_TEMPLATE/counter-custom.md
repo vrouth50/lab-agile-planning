@@ -3,7 +3,7 @@ name: Counter custom
 about: Generic counter
 title: ''
 labels: ''
-assignees: ''
+assignees: vrouth50
 
 ---
 
